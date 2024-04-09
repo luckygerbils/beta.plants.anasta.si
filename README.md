@@ -1,1 +1,2 @@
-# beta.plants.anasta.si
+# plants.anasta.si
+Redirects for my plant labels
